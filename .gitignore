@@ -10,3 +10,6 @@ target/
 # Jetbrains
 .idea
 *.iml
+
+# Packaged Rocket League bots
+*.zip
