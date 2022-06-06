@@ -6,5 +6,5 @@ edition = "2018"
 
 [dependencies]
 rlbot = "0.5.0"
-flatbuffers = "0.5.0"
+flatbuffers = "0.6.1"
 na = { version = "0.18.0", package = "nalgebra" }
